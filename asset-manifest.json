@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/NagarNigamHaridwar/static/css/main.e0ecbd3d.css",
-    "main.js": "/NagarNigamHaridwar/static/js/main.174f46b9.js",
+    "main.js": "/NagarNigamHaridwar/static/js/main.1b1eb9ff.js",
     "index.html": "/NagarNigamHaridwar/index.html",
     "main.e0ecbd3d.css.map": "/NagarNigamHaridwar/static/css/main.e0ecbd3d.css.map",
-    "main.174f46b9.js.map": "/NagarNigamHaridwar/static/js/main.174f46b9.js.map"
+    "main.1b1eb9ff.js.map": "/NagarNigamHaridwar/static/js/main.1b1eb9ff.js.map"
   },
   "entrypoints": [
     "static/css/main.e0ecbd3d.css",
-    "static/js/main.174f46b9.js"
+    "static/js/main.1b1eb9ff.js"
   ]
 }
