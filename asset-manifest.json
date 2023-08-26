@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NagarNigamHaridwar/static/css/main.e0ecbd3d.css",
+    "main.js": "/NagarNigamHaridwar/static/js/main.72d7d775.js",
+    "index.html": "/NagarNigamHaridwar/index.html",
+    "main.e0ecbd3d.css.map": "/NagarNigamHaridwar/static/css/main.e0ecbd3d.css.map",
+    "main.72d7d775.js.map": "/NagarNigamHaridwar/static/js/main.72d7d775.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0ecbd3d.css",
+    "static/js/main.72d7d775.js"
+  ]
+}
